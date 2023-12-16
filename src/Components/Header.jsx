@@ -5,6 +5,11 @@ const Header = () => {
     <header>
       <div>
         <span className="logo">Hose Staff</span>
+        <ul className="nav">
+          <li>about Us</li>
+          <li>contacts</li>
+          <li>Hm</li>
+        </ul>
       </div>
       <div className="presentation"></div>
     </header>
